@@ -1,4 +1,4 @@
-# Rubyの入門進捗 [Ruby入門](https://www.rubylife.jp/ini/string/index3.html)
+# Rubyの入門進捗 [Ruby入門リンク](https://www.rubylife.jp/)
 ## 6/17
 + githubに入門リポジトリ作成。
 + Ruby入門の基本事項を修了
